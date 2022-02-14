@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tales of Murf
 
 You can use the [editor on GitHub](https://github.com/kennystocker/talesofmurf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
